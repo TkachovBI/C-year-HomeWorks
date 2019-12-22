@@ -1,0 +1,11 @@
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\bin\Debug\netcoreapp2.1\Coffee.deps.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\bin\Debug\netcoreapp2.1\Coffee.runtimeconfig.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\bin\Debug\netcoreapp2.1\Coffee.runtimeconfig.dev.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\bin\Debug\netcoreapp2.1\Coffee.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\bin\Debug\netcoreapp2.1\Coffee.pdb
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\obj\Debug\netcoreapp2.1\Coffee.csprojAssemblyReference.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\obj\Debug\netcoreapp2.1\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\obj\Debug\netcoreapp2.1\Coffee.AssemblyInfoInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\obj\Debug\netcoreapp2.1\Coffee.AssemblyInfo.cs
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\obj\Debug\netcoreapp2.1\Coffee.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\Coffee\Coffee\obj\Debug\netcoreapp2.1\Coffee.pdb

@@ -1,0 +1,11 @@
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\bin\Debug\netcoreapp2.1\HW - SimpleClasses.deps.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\bin\Debug\netcoreapp2.1\HW - SimpleClasses.runtimeconfig.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\bin\Debug\netcoreapp2.1\HW - SimpleClasses.runtimeconfig.dev.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\bin\Debug\netcoreapp2.1\HW - SimpleClasses.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\bin\Debug\netcoreapp2.1\HW - SimpleClasses.pdb
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\obj\Debug\netcoreapp2.1\HW - SimpleClasses.csprojAssemblyReference.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\obj\Debug\netcoreapp2.1\HW - SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\obj\Debug\netcoreapp2.1\HW - SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\obj\Debug\netcoreapp2.1\HW - SimpleClasses.AssemblyInfo.cs
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\obj\Debug\netcoreapp2.1\HW - SimpleClasses.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW - SimpleClasses\HW - SimpleClasses\obj\Debug\netcoreapp2.1\HW - SimpleClasses.pdb

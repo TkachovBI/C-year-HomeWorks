@@ -1,0 +1,11 @@
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\bin\Debug\netcoreapp2.1\HW-19  Task-1.deps.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\bin\Debug\netcoreapp2.1\HW-19  Task-1.runtimeconfig.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\bin\Debug\netcoreapp2.1\HW-19  Task-1.runtimeconfig.dev.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\bin\Debug\netcoreapp2.1\HW-19  Task-1.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\bin\Debug\netcoreapp2.1\HW-19  Task-1.pdb
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\obj\Debug\netcoreapp2.1\HW-19  Task-1.csprojAssemblyReference.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\obj\Debug\netcoreapp2.1\HW-19  Task-1.csproj.CoreCompileInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\obj\Debug\netcoreapp2.1\HW-19  Task-1.AssemblyInfoInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\obj\Debug\netcoreapp2.1\HW-19  Task-1.AssemblyInfo.cs
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\obj\Debug\netcoreapp2.1\HW-19  Task-1.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block2\HW-19\HW-19\obj\Debug\netcoreapp2.1\HW-19  Task-1.pdb

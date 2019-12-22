@@ -1,0 +1,11 @@
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\bin\Debug\netcoreapp2.1\HW10.deps.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\bin\Debug\netcoreapp2.1\HW10.runtimeconfig.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\bin\Debug\netcoreapp2.1\HW10.runtimeconfig.dev.json
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\bin\Debug\netcoreapp2.1\HW10.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\bin\Debug\netcoreapp2.1\HW10.pdb
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\obj\Debug\netcoreapp2.1\HW10.csprojAssemblyReference.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\obj\Debug\netcoreapp2.1\HW10.csproj.CoreCompileInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\obj\Debug\netcoreapp2.1\HW10.AssemblyInfoInputs.cache
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\obj\Debug\netcoreapp2.1\HW10.AssemblyInfo.cs
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\obj\Debug\netcoreapp2.1\HW10.dll
+C:\Users\tkach\Desktop\C# year\hillel-cs-kids\BogdanTkachov\Block1\HW10\HW10\obj\Debug\netcoreapp2.1\HW10.pdb
